@@ -1,11 +1,9 @@
 # Graphql with Go
 Using 99design Gqlgen library to have a schema and code generation. Followed offical [getting started](https://gqlgen.com/getting-started/) guide.
 
-[X] Playground working with query against Todos.
-
-[X] Create a new Todo using mutation.
-
-[X] Get realtime subscription that sends timestamps using websockets per second.
+- [x] Playground working with query against Todos.
+- [x] Create a new Todo using mutation.
+- [x] Get realtime subscription that sends timestamps using websockets per second.
 
 
 ### Subscription
